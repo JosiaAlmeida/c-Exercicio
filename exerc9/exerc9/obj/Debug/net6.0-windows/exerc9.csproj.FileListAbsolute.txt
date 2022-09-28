@@ -1,0 +1,17 @@
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\bin\Debug\net6.0-windows\exerc9.exe
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\bin\Debug\net6.0-windows\exerc9.deps.json
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\bin\Debug\net6.0-windows\exerc9.runtimeconfig.json
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\bin\Debug\net6.0-windows\exerc9.dll
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\bin\Debug\net6.0-windows\exerc9.pdb
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\exerc9.csproj.AssemblyReference.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\exerc9.Form1.resources
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\exerc9.csproj.GenerateResource.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\exerc9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\exerc9.AssemblyInfoInputs.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\exerc9.AssemblyInfo.cs
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\exerc9.csproj.CoreCompileInputs.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\exerc9.dll
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\refint\exerc9.dll
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\exerc9.pdb
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\exerc9.genruntimeconfig.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc9\exerc9\obj\Debug\net6.0-windows\ref\exerc9.dll

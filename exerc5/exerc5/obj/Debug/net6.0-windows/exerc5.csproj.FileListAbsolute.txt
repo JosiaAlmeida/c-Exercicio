@@ -1,0 +1,17 @@
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\bin\Debug\net6.0-windows\exerc5.exe
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\bin\Debug\net6.0-windows\exerc5.deps.json
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\bin\Debug\net6.0-windows\exerc5.runtimeconfig.json
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\bin\Debug\net6.0-windows\exerc5.dll
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\bin\Debug\net6.0-windows\exerc5.pdb
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\exerc5.csproj.AssemblyReference.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\exerc5.Form1.resources
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\exerc5.csproj.GenerateResource.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\exerc5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\exerc5.AssemblyInfoInputs.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\exerc5.AssemblyInfo.cs
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\exerc5.csproj.CoreCompileInputs.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\exerc5.dll
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\refint\exerc5.dll
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\exerc5.pdb
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\exerc5.genruntimeconfig.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\exerc5\exerc5\obj\Debug\net6.0-windows\ref\exerc5.dll

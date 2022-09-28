@@ -1,0 +1,17 @@
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\bin\Debug\net6.0-windows\excerc3.exe
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\bin\Debug\net6.0-windows\excerc3.deps.json
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\bin\Debug\net6.0-windows\excerc3.runtimeconfig.json
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\bin\Debug\net6.0-windows\excerc3.dll
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\bin\Debug\net6.0-windows\excerc3.pdb
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\excerc3.csproj.AssemblyReference.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\excerc3.Form1.resources
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\excerc3.csproj.GenerateResource.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\excerc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\excerc3.AssemblyInfoInputs.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\excerc3.AssemblyInfo.cs
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\excerc3.csproj.CoreCompileInputs.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\excerc3.dll
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\refint\excerc3.dll
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\excerc3.pdb
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\excerc3.genruntimeconfig.cache
+C:\Users\j.almeida\Documents\estudoDotNet\exercList\excerc3\excerc3\obj\Debug\net6.0-windows\ref\excerc3.dll
